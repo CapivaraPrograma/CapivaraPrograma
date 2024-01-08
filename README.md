@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+seja+bem+vindo!;Perfil+em+Construção.)](https://git.io/typing-svg)
 
 # Capivara Programa
-Olá, sou um programador em desenvolvimento. Atualmente estou cursando Ciência da Computação e buscando ingressar na área de tecnologia.
+Olá! Eu sou um programador em desenvolvimento que está sempre em busca de novos desafios. Atualmente, estou cursando Ciência da Computação na Universidade Federal do Pará (UFPA) e me preparando para ingressar na área de tecnologia. Acredito que a tecnologia é uma das áreas mais promissoras e desafiadoras do mercado, e estou animado para fazer parte dela. Com perseverança, dedicação e paixão pelo que faço, tenho certeza de que posso alcançar meus objetivos e contribuir de forma geral. Obrigado por ler! 😊
 
 ## 💻 Minhas redes sociais
 
