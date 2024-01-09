@@ -39,6 +39,5 @@ Olá! Eu sou um programador em desenvolvimento que está sempre em busca de novo
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapivaraPrograma&layout=compact)
-
+### 👾 Frequência de Repositórios
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapivaraPrograma&layout=compact&locale=pt-br)
